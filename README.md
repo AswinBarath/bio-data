@@ -5,6 +5,6 @@ URL of GitHub Repo:https://github.com/AswinBarath/bio-data
 
 ## Screenshot of the Webpage
 <h2 align="center">
-  <img src="https://github.com/AswinBarath/bio-data/blob/master/image/Demo.png" alt="demo">
+  <img src="https://github.com/AswinBarath/bio-data/blob/master/image/demo.png" alt="demo">
   <br>
 </h2>
