@@ -7,10 +7,3 @@ Bio data is a HTML form which collects the data of a college student.<br>
   <br>
 </p>
 
-
-
-## Screenshot of the Webpage
-<h2 align="center">
-  <img src="https://github.com/AswinBarath/bio-data/blob/master/image/Screenshot.png" alt="demo">
-  <br>
-</h2>
